@@ -7,8 +7,9 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasDevMartins&show_icons=true&theme=dracula" />
-</a>
+</a><br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDevMartins&layout=donut-vertical)](https://github.com/LucasDevMartins/github-readme-stats)
 <h3>###Tecnologias que eu já estudei</h3>
 
 <div style="display: inline_block"></br>
