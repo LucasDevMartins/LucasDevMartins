@@ -1,7 +1,9 @@
  Olá me chamo Lucas Rodrigues Martins
 
 <div>
- <img height="180em" src="https://github-readme.stats.vercel.app/api?username=LucasDevMartins&show_icons-true&theme-warning&include_all_commits-true&count></>
+ 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
 </div>
 
  Atualmente estou cursando Desenvolvimento Web pela Udemy, já terminei as seções HTML5, CSS 3, Bootstrap 4 & Design Responsivo, estou na seção de JavaScript.
