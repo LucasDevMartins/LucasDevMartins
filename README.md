@@ -1,7 +1,10 @@
  Olá me chamo Lucas Rodrigues Martins
 
-<div>
- <img class="fa-brands fa-js"></img>
+<div style="display= inline-block"><br>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+ 
 </div>
 
  Atualmente estou cursando Desenvolvimento Web pela Udemy, já terminei as seções HTML5, CSS 3, Bootstrap 4 & Design Responsivo, estou na seção de JavaScript.
