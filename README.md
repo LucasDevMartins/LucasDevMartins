@@ -1,5 +1,8 @@
  Olá me chamo Lucas Rodrigues Martins
 
+ ![image](https://github.com/LucasDevMartins/LucasDevMartins/assets/149952362/b6c2b451-2040-4ab0-8616-ec1556d95814)
+
+
  Atualmente estou cursando Desenvolvimento Web pela Udemy, já terminei as seções HTML5, CSS 3, Bootstrap 4 & Design Responsivo, estou na seção de JavaScript.
  Vou deixar abaixo as que faltam ser cursadas e ir atualizando assim que forem terminadas.
 - Seção 11 - ECMAScript (ES6) e Orientados a Objetos;
