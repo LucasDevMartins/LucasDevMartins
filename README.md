@@ -17,6 +17,10 @@
    <img align="center"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
    <img align="center"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-</div>
+</div><br><hr>
+
+<h1>Bacharel em Sistemas de Informação</h1>
+
+<p>Recém formado, estou a procura de uma oportunidade para entrar no mercado de trabalho. Sempre buscando aprender com cursos mais práticos, pois na faculdade já estudei um pouco de tudo na teoria.</p>
 
 
