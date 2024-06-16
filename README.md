@@ -1,4 +1,4 @@
-<div style="background-color: black">
+<div>
 <!-- Início do Cabeçalho -->
 <header><hr>
 
@@ -45,18 +45,25 @@
 
   <h3 align="center" style="color: #32CD32">Cursos relacionados a Tecnologia da Informação: </h3>
 
-  - [Desenvolvimento Web](https://www.udemy.com/course/web-completo/) <span style="color: #FFF">(CURSANDO)...</span>
+  [![Desenvolvimento Web](https://img.shields.io/badge/Udemy-Desenvolvimento%20Web%20-Green)](https://www.udemy.com/course/web-completo/)
+  ![CURSANDO](https://img.shields.io/badge/-CURSANDO-white?style=flat&logoColor=black)
 
-  - [Trilha Digital | Coders 24 | Front End](https://ada.tech/) <span style="color: #FFF">- 19 Horas;</span>
-  - [Linguagem de Programação MIPS Assembly](https://www.udemy.com/course/mips-assembly) <span style="color: #FFF">- 19 Horas</span>
+  [![Trilha Digital | Coders 24 | Front End](https://img.shields.io/badge/AdaTech-Trilha%20Digital%20|%20Coders%2024%20|%20Front%20End-Green)](https://ada.tech/)
+  ![19 HORAS](https://img.shields.io/badge/-19%20HORAS-white?style=flat&logoColor=black)
+
+  [![Linguagem de Programação MIPS Assembly](https://img.shields.io/badge/Udemy-Linguagem%20de%20Programação%20MIPS%20Assembly%20-Green)](https://www.udemy.com/course/mips-assembly)
+  ![2,5 HORAS](https://img.shields.io/badge/-2,5%20HORAS-white?style=flat&logoColor=black)
+
+  [![JCL Mainframe](https://img.shields.io/badge/Udemy-JCL%20de%20Mainframe-Green)](https://www.udemy.com/course/jcl-mainframe-do-basico-ao-avancado)
+  ![4,5 HORAS](https://img.shields.io/badge/-4,5%20HORAS-white?style=flat&logoColor=black)
+
   - [JCL Mainframe](https://www.udemy.com/course/jcl-mainframe-do-basico-ao-avancado) <span style="color: #FFF">- 19 Horas</span>
-  - [Linguagem de Programação MIPS Assembly](/) <span style="color: #FFF">- 19 Horas</span>
-  - [Linguagem de Programação MIPS Assembly](/) <span style="color: #FFF">- 19 Horas</span>
-
+  
 </div>
 
 
-- [Desenvolvimento Web](https://www.udemy.com/course/web-completo/)
+
+
 
 <h3>Em meus projetos para estudar:</h3>
 
