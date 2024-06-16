@@ -6,7 +6,7 @@
     Prazer em conhecer! Eu sou Lucas Martins! ✌🏼
   </h1>
 
-  <div align="center">
+  <div>
 
   <h2 align="center">
     Bacharel em Sistemas de Informação (ESTÁCIO), Técnico em Hardware (INTEC), Cursando Desenvolvimento Web (UDEMY), para aprimorar minhas habilidades e conhecimentos.
@@ -58,11 +58,13 @@
   ![4,5 HORAS](https://img.shields.io/badge/-4,5%20HORAS-white?style=flat&logoColor=black)
   
 </div>
+<h1>
+  
+</h1> Em Processo de Construção.........</h1>
 
 
 
-
-
+<!--
 <h3>Em meus projetos para estudar:</h3>
 
 - [Android](https://www.udemy.com/course/curso-de-desenvolvimento-android-oreo/)
@@ -79,3 +81,4 @@ O trânsito é pensar a frente, é prever movimentos que talvez venham a ocorrer
 Sempre fui um grande fã da parte de informática, tenho um bom conhecimento e depois da minha faculdade acabei vendo coisas novas na teoria, acredito ter me familiarizado com a Programação, o Desenvolvimento, esse é o meu objetivo final nesse momento, me tornar um bom desenvolvedor.
 Se no futuro o cargo pretendido final irá mudar? Eu não sei, mas uma coisa é certa, será na Tecnologia da Informação!</p>
 </body>
+-->
