@@ -3,13 +3,13 @@
 <header><hr>
 
   <h1 style="color: #FFF" align="center">
-    Prazer em conhecer! Eu sou <strong style="color: #32CD32">Lucas Martins!</strong> ✌🏼
+    Prazer em conhecer! Eu sou Lucas Martins! ✌🏼
   </h1>
 
   <div align="center">
 
-  <h2 style="color: #FFF" align="center">
-    Bacharel em <em style="color: #32CD32">Sistemas de Informação</em> (ESTÁCIO), Técnico em <em style="color: #32CD32">Hardware</em> (INTEC), Cursando <em style="color: #32CD32">Desenvolvimento Web</em> (UDEMY) para aprimorar minhas habilidades e conhecimentos.
+  <h2 align="center">
+    Bacharel em Sistemas de Informação (ESTÁCIO), Técnico em Hardware (INTEC), Cursando Desenvolvimento Web (UDEMY), para aprimorar minhas habilidades e conhecimentos.
   </h2>
   
  
@@ -32,7 +32,7 @@
   </div>
 <!-- Inicio Badges -->
 <div style="display: inline_block"></br>
-  <h3 style="color: #32CD32" align="center">Conhecimentos em:</h3>
+  <h3>Conhecimentos em:</h3>
 <div align="center">
    <img align="center"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -43,7 +43,7 @@
 </div><br><hr>
 <div>
 
-  <h3 align="center" style="color: #32CD32">Cursos relacionados a Tecnologia da Informação: </h3>
+  <h3>Cursos relacionados a Tecnologia da Informação: </h3>
 
   [![Desenvolvimento Web](https://img.shields.io/badge/Udemy-Desenvolvimento%20Web%20-Green)](https://www.udemy.com/course/web-completo/)
   ![CURSANDO](https://img.shields.io/badge/-CURSANDO-white?style=flat&logoColor=black)
@@ -56,8 +56,6 @@
 
   [![JCL Mainframe](https://img.shields.io/badge/Udemy-JCL%20de%20Mainframe-Green)](https://www.udemy.com/course/jcl-mainframe-do-basico-ao-avancado)
   ![4,5 HORAS](https://img.shields.io/badge/-4,5%20HORAS-white?style=flat&logoColor=black)
-
-  - [JCL Mainframe](https://www.udemy.com/course/jcl-mainframe-do-basico-ao-avancado) <span style="color: #FFF">- 19 Horas</span>
   
 </div>
 
