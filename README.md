@@ -1,4 +1,5 @@
-<div style="background-image: url('./imagens/fundo3.png')">
+<div>
+
 <!-- Início do Cabeçalho -->
 <header ><hr>
 
