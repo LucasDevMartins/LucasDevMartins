@@ -1,6 +1,6 @@
-<div>
+<div style="background-image: url('./imagens/fundo3.png')">
 <!-- Início do Cabeçalho -->
-<header><hr>
+<header ><hr>
 
   <h1 style="color: #FFF" align="center">
     Prazer em conhecer! Eu sou Lucas Martins! ✌🏼
@@ -22,7 +22,7 @@
 
 <body>
 <!-- Inicio Stats Card -->
-  <div align="center">
+  <div align="center" >
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=125" src="https://github-readme-stats.vercel.app/api?username=LucasDevMartins&show_icons=true&theme=ambient_gradient" />
   </a><br><br>
@@ -32,7 +32,11 @@
   </div>
 <!-- Inicio Badges -->
 <div style="display: inline_block"></br>
-  <h3>Conhecimentos em:</h3>
+  <div align= "center">
+
+  ![Cursos:](https://img.shields.io/badge/-Conhecimentos%20em%20:-white?style=flat&logoColor=black)
+
+  </div>
 <div align="center">
    <img align="center"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -43,7 +47,7 @@
 </div><br><hr>
 <div>
 
-  <h3>Cursos relacionados a Tecnologia da Informação: </h3>
+  ![Cursos:](https://img.shields.io/badge/-Cursos%20Relacionados%20a%20Tecnologia%20da%20Informação%20:-white?style=flat&logoColor=black)
 
   [![Desenvolvimento Web](https://img.shields.io/badge/Udemy-Desenvolvimento%20Web%20-Green)](https://www.udemy.com/course/web-completo/)
   ![CURSANDO](https://img.shields.io/badge/-CURSANDO-white?style=flat&logoColor=black)
@@ -51,11 +55,17 @@
   [![Trilha Digital | Coders 24 | Front End](https://img.shields.io/badge/AdaTech-Trilha%20Digital%20|%20Coders%2024%20|%20Front%20End-Green)](https://ada.tech/)
   ![19 HORAS](https://img.shields.io/badge/-19%20HORAS-white?style=flat&logoColor=black)
 
+  [![Hardware](https://img.shields.io/badge/INTEC-Hardware-Green)](https://ada.tech/)
+  ![04/2009 à 05/2010](https://img.shields.io/badge/-04/2009%20À%2005/2010-white?style=flat&logoColor=black)
+
   [![Linguagem de Programação MIPS Assembly](https://img.shields.io/badge/Udemy-Linguagem%20de%20Programação%20MIPS%20Assembly%20-Green)](https://www.udemy.com/course/mips-assembly)
   ![2,5 HORAS](https://img.shields.io/badge/-2,5%20HORAS-white?style=flat&logoColor=black)
 
   [![JCL Mainframe](https://img.shields.io/badge/Udemy-JCL%20de%20Mainframe-Green)](https://www.udemy.com/course/jcl-mainframe-do-basico-ao-avancado)
   ![4,5 HORAS](https://img.shields.io/badge/-4,5%20HORAS-white?style=flat&logoColor=black)
+
+  [![Promob Plus](https://img.shields.io/badge/Promob%20Software%20Solutions-Promob%20Plus-Green)](https://promob.com/cursos/)
+  ![21 HORAS](https://img.shields.io/badge/-5%20HORAS-white?style=flat&logoColor=black)
   
 </div>
 
