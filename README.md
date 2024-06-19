@@ -35,7 +35,7 @@
 <div style="display: inline_block"></br>
   <div align= "center">
 
-  ![Cursos:](https://img.shields.io/badge/-Conhecimentos%20em%20:-white?style=flat&logoColor=black)
+  ![Cursos:](https://img.shields.io/badge/-Conhecimentos%20em%20:-gray?style=plastic&logoColor=black)
 
   </div>
 <div align="center">
@@ -43,30 +43,40 @@
    <img align="center"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
    <img align="center"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
    <img align="center"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-   <img align="center"  src="https://img.shields.io/badge/reactJS-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white" /></div>
+   <img align="center"  src="https://img.shields.io/badge/ReactJS-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white" /></div>
    <!-- Fim Badges -->
 </div><br><hr>
 <div>
 
-  ![Cursos:](https://img.shields.io/badge/-Cursos%20Relacionados%20a%20Tecnologia%20da%20Informação%20:-white?style=flat&logoColor=black)
+  ![Cursos:](https://img.shields.io/badge/-Cursos%20Relacionados%20a%20Tecnologia%20da%20Informação%20:-gray?style=plastic&logoColor=black)
 
   [![Desenvolvimento Web](https://img.shields.io/badge/Udemy-Desenvolvimento%20Web%20-Green)](https://www.udemy.com/course/web-completo/)
-  ![CURSANDO](https://img.shields.io/badge/-CURSANDO-white?style=flat&logoColor=black)
+  ![CURSANDO](https://img.shields.io/badge/-CURSANDO-white?style=plastic&logoColor=black)
 
   [![Trilha Digital | Coders 24 | Front End](https://img.shields.io/badge/AdaTech-Trilha%20Digital%20|%20Coders%2024%20|%20Front%20End-Green)](https://ada.tech/)
-  ![19 HORAS](https://img.shields.io/badge/-19%20HORAS-white?style=flat&logoColor=black)
+  ![19 HORAS](https://img.shields.io/badge/-19%20HORAS-white?style=plastic&logoColor=black)
 
   [![Hardware](https://img.shields.io/badge/INTEC-Hardware-Green)](https://ada.tech/)
-  ![04/2009 à 05/2010](https://img.shields.io/badge/-04/2009%20À%2005/2010-white?style=flat&logoColor=black)
+  ![04/2009 à 05/2010](https://img.shields.io/badge/-04/2009%20À%2005/2010-white?style=plastic&logoColor=black)
 
   [![Linguagem de Programação MIPS Assembly](https://img.shields.io/badge/Udemy-Linguagem%20de%20Programação%20MIPS%20Assembly%20-Green)](https://www.udemy.com/course/mips-assembly)
-  ![2,5 HORAS](https://img.shields.io/badge/-2,5%20HORAS-white?style=flat&logoColor=black)
+  ![2,5 HORAS](https://img.shields.io/badge/-2,5%20HORAS-white?style=plastic&logoColor=black)
 
   [![JCL Mainframe](https://img.shields.io/badge/Udemy-JCL%20de%20Mainframe-Green)](https://www.udemy.com/course/jcl-mainframe-do-basico-ao-avancado)
-  ![4,5 HORAS](https://img.shields.io/badge/-4,5%20HORAS-white?style=flat&logoColor=black)
+  ![4,5 HORAS](https://img.shields.io/badge/-4,5%20HORAS-white?style=plastic&logoColor=black)
 
   [![Promob Plus](https://img.shields.io/badge/Promob%20Software%20Solutions-Promob%20Plus-Green)](https://promob.com/cursos/)
-  ![21 HORAS](https://img.shields.io/badge/-5%20HORAS-white?style=flat&logoColor=black)
+  ![21 HORAS](https://img.shields.io/badge/-5%20HORAS-white?style=plastic&logoColor=black)
+
+  <hr>
+
+  ![Próximos cursos](https://img.shields.io/badge/-Em%20Meus%20Projetos%20para%20Estudar%20:-gray?style=plastic&logoColor=black)
+
+  [![Android](https://img.shields.io/badge/Android-Desenvolvimento%20Android-Green)]([https://promob.com/cursos/](https://www.udemy.com/course/curso-de-desenvolvimento-android-oreo/))
+  ![107 HORAS](https://img.shields.io/badge/-107%20HORAS-white?style=plastic&logoColor=black)
+
+  [![Java](https://img.shields.io/badge/Udemy-Java-Green)](https://www.udemy.com/course/java-curso-completo/?kw=java+completo&src=sac)
+  ![54h](https://img.shields.io/badge/-54%20HORAS-white?style=plastic&logoColor=black)
   
 </div>
 <h1>
@@ -76,9 +86,7 @@
 
 
 <!--
-<h3>Em meus projetos para estudar:</h3>
 
-- [Android](https://www.udemy.com/course/curso-de-desenvolvimento-android-oreo/)
 - [JAVA](https://www.udemy.com/course/java-curso-completo/?kw=java+completo&src=sac)
 <hr>
 
