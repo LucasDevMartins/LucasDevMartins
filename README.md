@@ -53,7 +53,7 @@
   [![Desenvolvimento Web](https://img.shields.io/badge/Udemy-Desenvolvimento%20Web%20-Green)](https://www.udemy.com/course/web-completo/)
   ![CURSANDO](https://img.shields.io/badge/-CURSANDO-white?style=plastic&logoColor=black)
 
-  [![Trilha Digital | Coders 24 | Front End](https://img.shields.io/badge/AdaTech-Trilha%20Digital%20|%20Coders%2024%20|%20Front%20End-Green)](https://ada.tech/)
+  [![Trilha Digital | Coders 24 | Front End](https://img.shields.io/badge/AdaTech-Trilha%20Digital%20|%20Coders%2024%20|%20Front%20End-Green)](https://adatech.gupy.io/)
   ![19 HORAS](https://img.shields.io/badge/-19%20HORAS-white?style=plastic&logoColor=black)
 
   [![Hardware](https://img.shields.io/badge/INTEC-Hardware-Green)](https://ada.tech/)
