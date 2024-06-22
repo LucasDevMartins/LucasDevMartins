@@ -53,7 +53,7 @@
   [![Trilha Digital | Coders 24 | Front End](https://img.shields.io/badge/AdaTech-Trilha%20Digital%20|%20Coders%2024%20|%20Front%20End-Green?style=plastic)](https://ada.tech/certificado?code=8bca211a-b92a-a570-7e87-a4204f31419c)
   ![19 HORAS](https://img.shields.io/badge/-19%20HORAS-white?style=plastic)
 
-  [![Hardware](https://img.shields.io/badge/INTEC-Hardware-Green?style=plastic)](https://ada.tech/)
+  [![Hardware](https://img.shields.io/badge/INTEC-Hardware-Green?style=plastic)](https://eadintec.com.br/)
   ![04/2009 à 05/2010](https://img.shields.io/badge/-04/2009%20À%2005/2010-white?style=plastic)
 
   [![Linguagem de Programação MIPS Assembly](https://img.shields.io/badge/Udemy-Linguagem%20de%20Programação%20MIPS%20Assembly%20-Green?style=plastic)](https://www.udemy.com/course/mips-assembly)
