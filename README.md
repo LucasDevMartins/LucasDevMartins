@@ -68,7 +68,8 @@
 
   [![Promob Plus](https://img.shields.io/badge/Promob%20Software%20Solutions-Promob%20Plus-Green?style=plastic)](https://promob.com/cursos/)
   ![21 HORAS](https://img.shields.io/badge/-21%20HORAS-white?style=plastic)
-=======
+
+
   ![Cursos:](https://img.shields.io/badge/-Cursos%20Relacionados%20a%20Tecnologia%20da%20Informação%20:-gray?style=plastic&logoColor=black)
 
   [![Desenvolvimento Web](https://img.shields.io/badge/Udemy-Desenvolvimento%20Web%20-Green)](https://www.udemy.com/course/web-completo/)
@@ -98,7 +99,7 @@
 
   [![Java](https://img.shields.io/badge/Udemy-Java-Green)](https://www.udemy.com/course/java-curso-completo/?kw=java+completo&src=sac)
   ![54h](https://img.shields.io/badge/-54%20HORAS-white?style=plastic&logoColor=black)
->>>>>>> 52c6721df3c8537bf642a72fa7e5f066523defd1
+
   
 </div>
 
@@ -146,25 +147,3 @@
   ![54 HORAS](https://img.shields.io/badge/-54%20HORAS-white?style=plastic)
 
 </div>
-
-
-<<<<<<< HEAD
-=======
-
-<!--
-
-- [JAVA](https://www.udemy.com/course/java-curso-completo/?kw=java+completo&src=sac)
-<hr>
-
-<p>
-Hoje eu trabalho como "Instrutor de Trânsito" ministrando aulas práticas de carro e moto para primeira CNH, PCDs, treinamento para habilitados.
- Acredito que uma mudança total de carreira não é algo fácil, mas nada a principio é fácil, basta ter persistência, prática e treinamento adequado. 
- Assim como quando levo alunos para o trânsito de fato e vejo o brilho nos olhos deles por terem alguém que tenha confiado e colocado eles no meio da "confusão", estou em busca desta mesma oportunidade.
-Costumo sempre falar para meus alunos que o erro vai acontecer é natural, mas o melhor a fazer é manter a calma e entender o motivo real do erro, não tentar adivinhar ou ficar frustrado.
-Assim como falo também muito em xadrez que eu gosto muito por sinal, pela lógica e estratégia imposta pelo jogo. O jogador que pensa mais jogadas a frente, muito provavelmente tem a capacidade melhor para superar suas jogadas.
-O trânsito é pensar a frente, é prever movimentos que talvez venham a ocorrer, situações inesperadas, placas, enfim, diversas coisas que podem ocorrer em segundos.
-Sempre fui um grande fã da parte de informática, tenho um bom conhecimento e depois da minha faculdade acabei vendo coisas novas na teoria, acredito ter me familiarizado com a Programação, o Desenvolvimento, esse é o meu objetivo final nesse momento, me tornar um bom desenvolvedor.
-Se no futuro o cargo pretendido final irá mudar? Eu não sei, mas uma coisa é certa, será na Tecnologia da Informação!</p>
-</body>
--->
->>>>>>> 52c6721df3c8537bf642a72fa7e5f066523defd1
