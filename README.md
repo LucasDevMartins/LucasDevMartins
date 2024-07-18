@@ -14,8 +14,8 @@
   </h2>
   <div align="center">
 
-  [![Instagram ](https://img.shields.io/badge/Instagram-FF0000?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/lukaocnp?utm_source=qr&igsh=MXNpdzhzZm12ejR2MQ==)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rodrigues-martins-595830137)
+  [![Instagram ](https://img.shields.io/badge/Instagram-E1306C?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/lukaocnp?utm_source=qr&igsh=MXNpdzhzZm12ejR2MQ==)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rodrigues-martins-595830137)
 
   </div>
 
@@ -36,10 +36,11 @@
 
 <div align="center">
   <img align="center"  src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" width="125" height="25"   />
-  <img align="center"  src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" width="125" height="25" />
+  <img align="center"  src="https://img.shields.io/badge/CSS3-264DE4?style=plastic&logo=css3&logoColor=white" width="125" height="25" />
   <img align="center"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white" width="125" height="25" />
   <img align="center"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" width="125" height="25" />
-  <img align="center"  src="https://img.shields.io/badge/ReactJS-35BDB2?style=plastic&logo=semanticuireact&logoColor=white" width="125" height="25" />
+  <img align="center"  src="https://img.shields.io/badge/ReactJS-61DAFB?style=plastic&logo=semanticuireact&logoColor=white" width="125" height="25" />
+  <img align="center"  src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" width="125" height="25" />
 </div>
   <!-- Fim Badges -->
 </div><br><hr>
