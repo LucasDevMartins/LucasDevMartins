@@ -25,10 +25,10 @@
 <!-- Inicio Stats Card -->
   <div align="center" >
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=125" src="https://github-readme-stats.vercel.app/api?username=LucasDevMartins&show_icons=true&theme=ambient_gradient" />
+    <img height=125" src="https://github-readme-stats.vercel.app/api?username=LucasDevMartins&show_icons=true&theme=ambient_gradient&layout=compact&langs_count=8&card_width=320"" />
   </a><br><br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDevMartins&layout=pie)](https://github.com/LucasDevMartins/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDevMartins&layout=compact&langs_count=8&card_width=320"")](https://github.com/LucasDevMartins/github-readme-stats)
 <!-- Fim Stats Card -->
   </div>
 <!-- Inicio Badges -->
