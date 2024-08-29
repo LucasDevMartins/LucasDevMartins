@@ -41,6 +41,8 @@
   <img align="center"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" width="125" height="25" />
   <img align="center"  src="https://img.shields.io/badge/ReactJS-61DAFB?style=plastic&logo=semanticuireact&logoColor=white" width="125" height="25" />
   <img align="center"  src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" width="125" height="25" />
+  <img align="center" src="https://img.shields.io/badge/MySQL-00758F?style=plastic&logo=mysql&logoColor=white" width="125" height="25" />
+  <img align="center" src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white" width="125" height="25" />
 </div>
   <!-- Fim Badges -->
 </div><br><hr>
