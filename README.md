@@ -43,6 +43,7 @@
   <img align="center"  src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" width="125" height="25" />
   <img align="center" src="https://img.shields.io/badge/MySQL-00758F?style=plastic&logo=mysql&logoColor=white" width="125" height="25" />
   <img align="center" src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white" width="125" height="25" />
+  <img align="center" src="https://img.shields.io/badge/Ionic-3880ff?style=plastic&logo=ionic&logoColor=white" width="125" height="25" />
 </div>
   <!-- Fim Badges -->
 </div><br><hr>
