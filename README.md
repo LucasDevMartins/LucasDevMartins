@@ -10,7 +10,7 @@
   <div>
 
   <h2 align="center">
-    Bacharel em Sistemas de Informação (ESTÁCIO), Técnico em Hardware (INTEC), Cursando Desenvolvimento Web (UDEMY), para aprimorar minhas habilidades e conhecimentos.
+    Bacharel em Sistemas de Informação, Técnico em Hardware, Desenvolvedor Web
   </h2>
   <div align="center">
 
@@ -44,6 +44,9 @@
   <img align="center" src="https://img.shields.io/badge/MySQL-00758F?style=plastic&logo=mysql&logoColor=white" width="125" height="25" />
   <img align="center" src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white" width="125" height="25" />
   <img align="center" src="https://img.shields.io/badge/Ionic-3880ff?style=plastic&logo=ionic&logoColor=white" width="125" height="25" />
+  <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white" width="125" height="25" />
+  <img align="center" src="https://img.shields.io/badge/Figma-4A90E2?style=plastic&logo=figma&logoColor=white" width="125" height="25" />
+  <img align="center" src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" width="125" height="25" />
 </div>
   <!-- Fim Badges -->
 </div><br><hr>
@@ -51,8 +54,35 @@
 
   ![Cursos:](https://img.shields.io/badge/-Cursos%20Relacionados%20a%20Tecnologia%20da%20Informação%20:-gray?style=plastic)
 
+  [![Figma: prototipagem interativa e animações](https://img.shields.io/badge/Alura-Figma:%20prototipagem%20interativa%20e%20animações-Green?style=plastic)](https://cursos.alura.com.br/course/figma-prototipagem-interativa-animacoes)
+  ![CURSANDO...](https://img.shields.io/badge/-CURSANDO-white?style=plastic)
+  
+  [![Imersão Dev Back End com Google Gemini](https://img.shields.io/badge/Alura-Imersão%20Dev%20Back%20End%20com%20Google%20Gemini-Green?style=plastic)]()
+  ![4 HORAS](https://img.shields.io/badge/-8%20HORAS-white?style=plastic)
+
+  [![Angular: Formulários e interação com APIs](https://img.shields.io/badge/Alura-Angular:%20Formulários%20e%20interação%20com%20APIs-Green?style=plastic)](https://cursos.alura.com.br/user/lucas-rodriguesmartins/course/angular-componentizacao-formularios-interacao-apis/certificate)
+  ![8 HORAS](https://img.shields.io/badge/-8%20HORAS-white?style=plastic)
+  
+  [![Angular: Componentização e Design Angular Material](https://img.shields.io/badge/Alura-Angular:%20Componentização%20e%20Design%20Angular%20Material-Green?style=plastic)](https://cursos.alura.com.br/user/lucas-rodriguesmartins/course/angular-componentizacao-design-angular-material/certificate)
+  ![8 HORAS](https://img.shields.io/badge/-8%20HORAS-white?style=plastic)
+
+  [![Angular: Tokens JWT](https://img.shields.io/badge/Alura-Angular:%20Tokens%20JWT-Green?style=plastic)](https://cursos.alura.com.br/course/angular-tokens-jwt-autenticacao-cadastro)
+  ![8 HORAS](https://img.shields.io/badge/-10%20HORAS-white?style=plastic)
+
+  [![Angular: Buscar, filtrar e exibir dados de uma API ](https://img.shields.io/badge/Alura-Angular:%20Buscar,%20filtrar%20e%20exibir%20dados%20de%20uma%20API-Green?style=plastic)](https://cursos.alura.com.br/user/lucas-rodriguesmartins/course/angular-buscando-filtrando-exibindo-dados-api/certificate)
+  ![8 HORAS](https://img.shields.io/badge/-8%20HORAS-white?style=plastic)
+
+  [![Angular: Boas práticas de desenvolvimento com modularização, lazy loading e interceptors](https://img.shields.io/badge/Alura-Angular:%20Boas%20práticas%20de%20desenvolvimento%20com%20modularização,%20lazy%20loading%20e%20interceptors-Green?style=plastic)](https://cursos.alura.com.br/user/lucas-rodriguesmartins/course/html-css-ambiente-arquivos-tags/certificate)
+  ![8 HORAS](https://img.shields.io/badge/-8%20HORAS-white?style=plastic)
+
+  [![HTML e CSS](https://img.shields.io/badge/Alura-HTML%20&%20CSS-Green?style=plastic)](https://cursos.alura.com.br/user/lucas-rodriguesmartins/course/html-css-ambiente-arquivos-tags/certificate)
+  ![8 HORAS](https://img.shields.io/badge/-4%20HORAS-white?style=plastic)
+  
+  [![Imersão Dev com Google Gemini](https://img.shields.io/badge/Alura-Imersão%20Dev%20com%20Google%20Gemini-Green?style=plastic)](https://cursos.alura.com.br/user/lucas-rodriguesmartins/immersion/certificate/41204)
+  ![4 HORAS](https://img.shields.io/badge/-4%20HORAS-white?style=plastic)
+  
   [![Desenvolvimento Web](https://img.shields.io/badge/Udemy-Desenvolvimento%20Web%20-Green?style=plastic)](https://www.udemy.com/course/web-completo/)
-  ![CURSANDO](https://img.shields.io/badge/-CURSANDO-white?style=plastic)
+  ![119,5 HORAS](https://img.shields.io/badge/-119,5%20HORAS-white?style=plastic)
 
   [![Trilha Digital | Coders 24 | Front End](https://img.shields.io/badge/AdaTech-Trilha%20Digital%20|%20Coders%2024%20|%20Front%20End-Green?style=plastic)](https://ada.tech/certificado?code=8bca211a-b92a-a570-7e87-a4204f31419c)
   ![19 HORAS](https://img.shields.io/badge/-19%20HORAS-white?style=plastic)
@@ -72,48 +102,16 @@
 
 </div>
 
-<div align="center">
-
-  ![Cursos:](https://img.shields.io/badge/-Um%20pouco%20sobre%20mim%20:-gray?style=plastic)
-
-  <p>
-    Sempre fui um grande fã da parte de informática, tenho um bom conhecimento e depois da minha faculdade em Sistemas de Informação, acabei vendo coisas novas na teoria. Acredito ter me familiarizado com a Programação, o Desenvolvimento, esse é o meu objetivo final nesse momento, me tornar um bom desenvolvedor.
-  </p>
-
-  <p>
-    Se no futuro o cargo pretendido final irá mudar? Eu não sei, mas uma coisa é certa, será na área Tecnologia da Informação!
-  </p>
-
-  <p>
-    Hoje eu trabalho como "Instrutor de Trânsito" ministrando aulas práticas de carro e moto para primeira CNH, PCDs, treinamento para habilitados.
-  </p>
-
-  <p>
-    Acredito que uma mudança total de carreira não é algo fácil, mas nada a principio é....basta ter persistência, prática e treinamento adequado. 
-  </p>
-
-  <p>
-    Assim como quando levo alunos para o trânsito de fato e vejo o brilho nos olhos deles por terem alguém que tenha confiado e colocado eles no meio da "confusão", estou em busca desta mesma oportunidade.
-  </p>
-
-  <p>
-    Costumo sempre falar para meus alunos que o erro vai acontecer é natural, mas o melhor a fazer é manter a calma e entender o motivo real do erro, não tentar adivinhar ou ficar frustrado.
-    Assim como falo também muito em xadrez que eu gosto muito por sinal, pela lógica e estratégia imposta pelo jogo. O jogador que pensa mais jogadas a frente, muito provavelmente tem a capacidade melhor       para superar suas jogadas.
-  </p>
-
-  <p>
-    O trânsito é pensar a frente, é prever movimentos que talvez venham a ocorrer, situações inesperadas, placas, enfim, diversas coisas que podem ocorrer em segundos.
-  </p>
-
-</div><hr>
-
-<div>
+<hr>
 
   ![Cursos:](https://img.shields.io/badge/-Em%20meus%20projetos%20para%20cursar:-gray?style=plastic)
 
   [![Android](https://img.shields.io/badge/Android-Desenvolvimento%20Android%20Completo-Green?style=plastic)](https://www.udemy.com/course/curso-de-desenvolvimento-android-oreo/)
   ![107 HORAS](https://img.shields.io/badge/-107%20HORAS-white?style=plastic)
 
+  [![Python](https://img.shields.io/badge/Python-Python%203%20completo:%20PySide6,%20Django,%20Selenium,%20Regexp,%20Testes,%20TDD,%20POO,%20Design%20Patterns%20GoF,%20algoritmos%20e%20programação-Green?style=plastic)](https://www.udemy.com/course/python-3-do-zero-ao-avancado/learn/lecture/34720524?start=0#overview)
+  ![141 HORAS](https://img.shields.io/badge/-141%20HORAS-white?style=plastic)
+  
   [![Java](https://img.shields.io/badge/Java-Java%20Completo:%20Programação%20Orientada%20a%20Objetos%20+%20Projetos-Green?style=plastic)](https://www.udemy.com/course/java-curso-completo/?kw=java+completo&src=sac)
   ![54 HORAS](https://img.shields.io/badge/-54%20HORAS-white?style=plastic)
 
